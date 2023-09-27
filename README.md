@@ -4,9 +4,9 @@ This project is a React Native application dedicated to job searching. It allows
 
 ## Images
 
-![Image 1](img1.jpg)
-![Image 2](img2.jpg)
-![Image 3](img3.jpg)
+<img src="img1.jpg" alt="Image 1" width="300">
+<img src="img2.jpg" alt="Image 2" width="300">
+<img src="img3.jpg" alt="Image 3" width="300">
 
 
 ## Project Structure 
