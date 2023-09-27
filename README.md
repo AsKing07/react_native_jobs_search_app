@@ -4,9 +4,11 @@ This project is a React Native application dedicated to job searching. It allows
 
 ## Images
 
-<img src="img1.jpg" alt="Image 1" width="300">
-<img src="img2.jpg" alt="Image 2" width="300">
-<img src="img3.jpg" alt="Image 3" width="300">
+<div style="display: flex; justify-content: space-between;">
+  <img src="img1.jpg" alt="Image 1" width="300">
+  <img src="img2.jpg" alt="Image 2" width="300">
+  <img src="img3.jpg" alt="Image 3" width="300">
+</div>
 
 
 ## Project Structure 
